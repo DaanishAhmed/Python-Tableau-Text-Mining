@@ -1,0 +1,39 @@
+# DATA 620 Assignment 12.1
+# TURN IN #1
+# Written by Daanish Ahmed
+# Semester Spring 2017
+# Professor Majed Al-Ghandour
+#
+# New York Times review of Forrest Gump (1994), Oscar Best Picture winner of 1995.
+#
+# Reference:
+# Maslin, J. (1994, July 6). FILM REVIEW; Tom Hanks as an Interloper in History. The New York Times. 
+# Retrieved May 3, 2017, from 
+# http://www.nytimes.com/movie/review?res=9F02EFDB1F3CF935A35754C0A962958260
+#
+#
+When a television news report overheard in "Forrest Gump" mentions American astronauts, the audience can be forgiven for wondering whether the title character will soon be seen walking on the moon. The charmed life of Forrest Gump has led him practically everywhere else, from the White House (where Presidents Kennedy, Johnson and Nixon appear to be greeting him amiably) to an Alabama boarding house (where he gives pelvis-shaking lessons to a guest, the as-yet-unknown Elvis Presley).
+
+And "Forrest Gump" is such an accomplished feat of cyber-cinema that it makes these tricks, not to mention subtler ones, look amazingly seamless. As he did in "Who Framed Roger Rabbit?" and the "Back to the Future" films, Robert Zemeckis is bound to leave viewers marveling at the sheer wizardry behind such effects. Even the opening credit sequence, featuring a feather that drifts along a perfectly choreographed trajectory until it reaches its precise destination -- a fine visual embodiment of Forrest's own path through life -- is cause for astonishment.
+
+But as with Mr. Zemeckis's "Death Becomes Her," the audience won't simply ask how; it will also wonder why. This film maker, the one who made Meryl Streep appear to speak with her head on backward, remains much more successful at staging brilliant technical sleight-of-hand than at providing the dramatic basis for his visual inventions. Structured as Forrest's autobiography, and centering on his lifelong love for an elusive beauty named Jenny, "Forrest Gump" has the elements of an emotionally gripping story. Yet it feels less like a romance than like a coffee-table book celebrating the magic of special effects.
+
+Luckily, "Forrest Gump" has Tom Hanks, the only major American movie star who could have played Forrest without condescension and without succumbing to the film's Pollyanna-ish tone. "Let me say this: bein a idiot is no box of chocolates," says the slow-witted narrator of Winston Groom's tart, playful novel, on which Eric Roth's screenplay is based. The film's Forrest expresses this thought in much more saccharine fashion, announcing that his mother used to say life was like a box of chocolates because "you never know what you're gonna get."
+
+On screen, "Forrest Gump" doesn't get much tougher than that. It's a loose string of vignettes, presented at an unemphatic, page-flipping pace by Mr. Zemeckis, and establishing Forrest as an accidental emblem of his times. Forrest's love of Jenny (Robin Wright) is the film's only unifying thread, but it's a thread stretched almost to the breaking point. You are sure to watch this story chiefly for its digressions, especially those expressed with Forrest's comically oblivious powers of description: "Now the really good thing about meetin' the President of the United States is the food."
+
+Forrest says this when, having been named an All-American, he visits the Kennedy White House and winds up drinking too much Dr. Pepper. Typical of the film's magic is a brief glimpse of Forrest writhing uncomfortably and telling the President that he has to go to the bathroom, with a naivete that makes Mr. Kennedy chuckle.
+
+The President's voice sounds authentic, his mouth movements match his movie dialogue, and he and Mr. Hanks appear to be on precisely the same film stock, in the same frame. Special kudos for this go to Ken Ralston, the film's special-effects supervisor, and to Industrial Light and Magic, pushing the technical envelope further than ever. Superb gamesmanship like this is its own reward, even if it accounts for only a fraction of the film's screen time and sometimes is allowed to wear thin (a patently phony shot seating Forrest next to John Lennon on the Dick Cavett show, with Mr. Lennon's small talk consisting of "Imagine" lyrics).
+
+Disabled as a young boy but goaded by his loving Mama (Sally Field) to make the best of his abilities, Forrest eventually becomes a football star, a war hero, a successful businessman and an international Ping-Pong champion. Is Mr. Hanks hitting real Ping-Pong balls at high speed? Or have the balls and whacking sounds been artificially added? By the time this sequence comes around, viewers will have lost all ability to distinguish real images from clever counterfeits. The single most dazzling special effect turns Gary Sinise, as Forrest's Vietnam friend and subsequent business partner, into a double amputee.
+
+Meanwhile, American popular culture explodes around Forrest, allowing Mr. Zemeckis to contrive a string of Zeitgeist-laden picture postcards. Jenny goes from country girl to hippie to political activist to druggie and onward. When she goes to San Francisco during the flower-power days, viewers will know exactly which pop song to expect in the background.
+
+In fact, "Forrest Gump" is so loaded with hit songs and eye-catching costumes that these superficial elements often supplant the narrative. When Forrest, demonstrating the kind of benign whimsy that brings to mind Kurt Vonnegut's early fiction, decides that he feels like running across America for a couple of years, "Running on Empty," "It Keeps You Runnin'," "Go Your Own Way" and "On the Road Again" are all used for musical accompaniment. While en route, he also invents one very popular bumper slogan and the "Have a Nice Day" T-shirt logo.
+
+If Forrest is a holy fool, Mr. Hanks makes his holiness very apparent. Only in this touching, imaginatively childlike performance does the film display any emotional weight. Sitting on a bench at a bus stop during most of the film, eagerly recounting his life story for a succession of strangers, Mr. Hanks's Forrest has an unerring sincerity and charm. If it's difficult to reconcile this sweet, guileless performance with the film's technical obsessiveness (a special satellite was used to track the sun's position and determine optimum lighting for the film's outdoor scenes), well, maybe it should be.
+
+Deserving of special mention among the actors are Mykelti Williamson, as the Army buddy who turns out to be a perfect match for Forrest, and Mr. Sinise, whose dark, bitter performance offers an element of surprise. Ms. Wright's role is structured mostly as a set of costume changes, but she is as strong and resilient as the material requires. Ms. Field, unfazed by the job of playing Mr. Hanks's mother, charges through the story in flowery, emphatically genteel Southern costumes. Like everything else about "Forrest Gump," she looks a little too good to be true.
+
+"Forrest Gump" is rated PG-13 (Parents strongly cautioned). It includes brief nudity, sexual references and mild profanity. FORREST GUMP Directed by Robert Zemeckis; written by Eric Roth, based on the novel by Winston Groom; director of photography, Don Burgess; edited by Arthur Schmidt; music by Alan Silvestri; production designer, Rick Carter; produced by Wendy Finerman, Steve Tisch and Steve Starkey; released by ParamountViacomcoei. Running time: 140 minutes. This film is rated PG-13. WITH: Sally Field, Tom Hanks, Gary Sinise, Mykelti Williamson and Robin Wright.
