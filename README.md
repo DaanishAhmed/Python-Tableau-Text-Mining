@@ -11,7 +11,7 @@ Additionally, I have included the file "DaanishAhmed-output-1934-2014.csv", whic
 
 The Python script is included in the file "DaanishAhmed-text-parse.py".  The requirements are described in the file "requirements.txt".  Instructions on how to use the program are included as comments in the .py file.  Please read the instructions carefully before executing the code to ensure that the program functions correctly.  Please note that the file requires NLTK (Natural Language Tool Kit), and the program will not work if you have not installed the NLTK add-on for Python.  I have also included an extended list of stop words ("DaanishAhmed-stopwords.txt"), which adds additional uninteresting words not included in the NLTK stop words list.  This file must be in the same location as the main Python code.
 
-Finally, I have included the Tableau file "film word choice display.twb".  This file includes all of the visualizations used in my report.  It uses the data source "DaanishAhmed-text-parse.py".
+Finally, I have included the Tableau file "film word choice display.twb".  This file includes all of the visualizations used in my report.  It uses the data source "DaanishAhmed-output-1934-2014.csv".
 
 
 References:
